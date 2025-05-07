@@ -1,4 +1,4 @@
-// import { Typography } from "neetoui";
+import { Typography } from "neetoui";
 
 const Product = () => (
   <div className="px-6 pb-6">
